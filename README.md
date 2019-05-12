@@ -1,0 +1,1 @@
+# tp-jhipster-scripts
